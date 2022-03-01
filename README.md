@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 I'm Tolstov Serghei, or just Srge - full stack web Developer. 
 Still in a beginning of my journey... Right now I'm heavily focusing on Node.js and React
 
-### Get In Touch\_
-
 
 - 🌱  I’m currently focusing on improving knowledge in React and Redux ...
+
+### Get In Touch\_
 
 <a href="mailto:sergheitolstov@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/tolstovserge/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
