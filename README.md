@@ -16,12 +16,8 @@ Here are some ideas to get you started:
 
 ## Hi, there!
 
-I am full stack web developer with background in graphic design, photography and remodeling.
-I guess I am project-driven Creative, but what does this overuse word mean in my case? - I like to build and solve problems, I actually do! And it looks like it doesn't matter what to build, Lego Millennium Falcon, House Addition, furniture, Web Movie Library or Food Cooking App.
-
-From brainstorming plan on a napkin, to comprehensive clear blueprint and roles assigned, milestone and time frames and back up plans. From digging foundation to designing hose number on the entry door. I will use tools I have, obtained or learn what else I need, to deliver on a promise.
-
-Understandably big projects involve teamwork, luckily I was rased in the environment where teamwork is a foundation for relationships and and it became part of me.
+I'm Tolstov Serghei, or just Srge - full stack web Developer. 
+Still in a beginning of my journey...
 
 ### Get In Touch\_
 
