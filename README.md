@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## Hi, there!
 
 I'm Tolstov Serghei, or just Srge - full stack web Developer. 
-Still in a beginning of my journey... Right now I'm heavili focusing on Node.js aand React
+Still in a beginning of my journey... Right now I'm heavily focusing on Node.js and React
 
 ### Get In Touch\_
 
