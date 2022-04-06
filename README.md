@@ -45,6 +45,6 @@ Still in a beginning of my journey... Right now I'm heavily focusing on Node.js 
 
 ##
 
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=T0lst0v")
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T0lst0v&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=T0lst0v&show_icons=true&theme=dark) -->
