@@ -20,7 +20,7 @@ I'm Tolstov Serghei, or just Srge - full stack web Developer.
 Still in a beginning of my journey... Right now I'm heavily focusing on Node.js and React
 
 
-- 🌱  I’m currently focusing on improving knowledge in React and Redux ...
+- 🌱  curently focusing on React and Redux ...
 
 ### Get In Touch\_
 
