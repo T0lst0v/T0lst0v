@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## Hi, there!
 
-I'm Tolstov Serghei, or just Srge - full stack web Developer. 
+I'm Tolstov Serghei, or just Srge - full stack web Developer with focus in a Front End. 
 
 
 ### Get In Touch\_
